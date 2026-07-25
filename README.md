@@ -1,36 +1,15 @@
-<div align="center">
+<pre style="font-family: monospace; font-size:12px; line-height:0.92; text-align:center;">
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆâ–ˆ â–ˆ   â–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆ   â–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆ  â–ˆ   â–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 
+  â–ˆ     â–ˆ   â–ˆ     â–ˆ     â–ˆ   â–ˆ   â–ˆ   â–ˆ     â–ˆ   â–ˆ â–ˆ     â–ˆ   â–ˆ  â–ˆ â–ˆ    â–ˆ   
+  â–ˆ     â–ˆ    â–ˆâ–ˆâ–ˆ  â–ˆ     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   â–ˆ   â–ˆ     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆ  â–ˆâ–ˆ â–ˆ   â–ˆ   â–ˆ     â–ˆ   
+  â–ˆ     â–ˆ       â–ˆ â–ˆ     â–ˆ   â–ˆ   â–ˆ   â–ˆ     â–ˆ   â–ˆ â–ˆ   â–ˆ â–ˆ   â–ˆ   â–ˆ     â–ˆ   
+â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   â–ˆ   â–ˆâ–ˆâ–ˆâ–ˆ   â–ˆâ–ˆâ–ˆâ–ˆ â–ˆ   â–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆâ–ˆ â–ˆ   â–ˆ  â–ˆâ–ˆâ–ˆâ–ˆ  â–ˆâ–ˆâ–ˆ    â–ˆ     â–ˆ   
+</pre>
 
-![Logo](https://github.com/mydemons2354/mydemons2354/blob/main/minecraft_title%20(43).png)
-
-# 👋 Hello, I'm Mydemons2354!
-
-I am a dedicated **Minecraft Bedrock Edition (MCBE) Developer** passionate about creating powerful tools and addons that push the limits of the Script API.
-
----
-
-## 💎 Featured Project: AmethystDB
-
-My current major project is **AmethystDB**, a high-performance database system specifically designed for Minecraft Bedrock creators. 
-
-Unlike traditional MCBE databases, **AmethystDB** is built to feel like modern document databases (such as MongoDB or Mongoose). It bridges the gap between simple scoreboards and complex data structures, allowing developers to store everything from player inventories to deep quest systems with ease.
-
-### 🚀 What makes AmethystDB different?
-*   **Hybrid Logic:** Uses both Scoreboards (for speed) and Dynamic Properties (for persistence).
-*   **Document-Based:** No more messy strings—store and query actual JSON objects.
-*   **Entity Support:** Easily create private data tables tied directly to specific players.
-*   **Developer Friendly:** Designed with a clean, intuitive API to make coding faster.
+## ðŸŒ Socials
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lildanlid)  [![Xbox](https://img.shields.io/badge/Xbox-107C10.svg?logo=Xbox&logoColor=white)](https://www.xbox.com/play/user/lildanlid)  [![Website](https://img.shields.io/badge/Website-4285F4.svg?logo=Google-Chrome&logoColor=white)](https://frozi.lol/lildanlid)  [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.gg/DQsPfsH4x2)  [![CurseForge](https://img.shields.io/badge/CurseForge-F16436.svg?logo=curseforge&logoColor=white)](https://www.curseforge.com/members/lildanlid/projects)  [![MCPEDL](https://img.shields.io/badge/MCPEDL-0E7C0E.svg?logo=minecraft&logoColor=white)](https://mcpedl.com/user/llildanlid)
 
 ---
 
-## 🛠️ My Toolkit
-*   **Languages:** JavaScript / TypeScript
-*   **Platforms:** Minecraft Bedrock Script API (@minecraft/server)
-*   **Focus:** Backend systems, Database architecture, and Utility Addons.
-
----
-
-## 📬 Connect with me
-*   **Project:** Working on [AmethystDB]
-*   **Goal:** To provide the MCBE community with the most reliable data storage solution available.
-
-*"Building the foundation for better Bedrock addons, one document at a time."*
+## ðŸ’» Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
